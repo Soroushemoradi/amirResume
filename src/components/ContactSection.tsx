@@ -50,6 +50,9 @@ const ContactSection = () => {
           <Link href="#" className="hover:text-[#a855f7]">
             <FaInstagram className="size-5" />
           </Link>
+          <Link href="#" className="hover:text-[#a855f7]">
+            <FaInstagram className="size-5" />
+          </Link>
 
           {/* LinkedIn (اگر داشتی لینک بده) */}
           <Link href="#" className="hover:text-[#a855f7]">
